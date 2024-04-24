@@ -1,0 +1,12 @@
+tables
+scikit-image
+scipy
+numpy
+torch
+tiffile
+xmltodict
+scikit-learn
+Pillow
+matplotlib
+pandas
+
