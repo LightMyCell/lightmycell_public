@@ -1,2 +1,2 @@
 A modification of the model presented by Cross-
-Zamirski et al. (https://doi.org/10.1038/s41598-022-12914-x) for the lighmycells challenge
+Zamirski et al. (https://doi.org/10.1038/s41598-022-12914-x), for the lightmycells challenge at ISBI 2024. Thanks to the authors for making their method available!
